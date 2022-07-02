@@ -1,0 +1,109 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(to right, cyan, purple, #FF0084);
+}
+
+#cadastro {
+    background-color: white;
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+h2 {
+    background-color: rgb(243, 235, 235);
+    height: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+}
+
+#nome {
+    margin-left: 15px;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#inome {
+    border-style: groove;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color: aliceblue;
+    width: 360px;
+    height: 35px;
+    margin-left: 15px;
+}
+
+#email {
+    margin-left: 15px;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#iemail {
+    border-style: groove;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color: aliceblue;
+    width: 360px;
+    height: 35px;
+    margin-left: 15px;
+}
+
+#senha {
+    margin-left: 15px;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#isenha {
+    border-style: groove;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color: aliceblue;
+    width: 360px;
+    height: 35px;
+    margin-left: 15px;
+}
+
+#confirm {
+    margin-left: 15px;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#isenha2 {
+    border-style: groove;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color: aliceblue;
+    width: 360px;
+    height: 35px;
+    margin-left: 15px;
+}
+
+#enviar {
+    border: none;
+    border-radius: 7px;
+    background-color: #ee0e82;
+    margin-top: 45px;
+    margin-left: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 355px;
+    height: 45px;
+    color: white;
+}
